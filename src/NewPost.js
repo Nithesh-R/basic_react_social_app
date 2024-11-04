@@ -1,4 +1,4 @@
-import { useCallback, useContext } from "react";
+import { useContext } from "react";
 import DataContext from "./context/DataContext";
 
 const NewPost = () => {
